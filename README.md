@@ -101,6 +101,16 @@ We built an interactive front-end using **Gradio**, allowing users to input stud
 
 ## 📦 Project Structure
 
+student-grade-prediction/
+
+├── student-mat.csv
+├── student_grade_predictor.ipynb
+├── README.md
+├── assets/
+│ ├── gradio_demo.png
+│ └── feature_importance.png
+
+![image](https://github.com/user-attachments/assets/c9d1b033-3aae-4f64-86e6-9914823d0163)
 
 
 ![image](https://github.com/user-attachments/assets/f92be522-158d-45d6-a160-070193b4357c)
